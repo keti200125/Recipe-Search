@@ -69,7 +69,7 @@ python scripts/build_index.py
 ### Run the demo application
 ```bash
 streamlit run app/streamlit.py
-``
+```
 
 
 
